@@ -1,0 +1,25 @@
+[info]
+homepage = "https://github.com/abishekvashok/cmatrix"
+maintainer = "abishekvashok"
+name = "cmatrix"
+version = "2.0"
+desc = "Terminal based 'The Matrix' like implementation"
+license = "GPL-3.0"
+deps = []
+# comment
+[pkg]
+# comment, messy stuff here
+src-url = "https://github.com/abishekvashok/cmatrix/archive/refs/tags/v2.0.tar.gz"
+sha256sum = "ad93ba39acd383696ab6a9ebbed1259ecf2d3cf9f49d6b97038c66f80749e99a"
+strip = "1"
+
+pre-hooks = [
+  "autoreconf -i"
+]
+# this is just shell
+
+[build]
+build-sys = "autotools"
+# oh yeah, and 'script' is also gonna be a optional variable incase scripts need to be ran, some packages do this
+
+post-hooks = []

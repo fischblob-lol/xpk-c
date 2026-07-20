@@ -1,0 +1,8 @@
+[
+  {
+    "name": "cmatrix",
+    "category": "app-misc",
+    "version": "2.0",
+    "description": "Terminal based 'The Matrix' like implementation"
+  }
+]
