@@ -1,4 +1,4 @@
-xpk-c
+_xpk-c_
 ====
 
 The official core repository for xpk.
@@ -27,12 +27,12 @@ Caveats
 =====
 of course, xpk is a recent package manager with a practically non existent ecosystem, so the methodology and philosophy of "no trust" will mature over time, creating a more efficent method
 
-
-
 Requirements for merge
 =====
 - At least 1 maintainer reviews.
+
 - At least 2 valid maintainer signatures.
-- Packages must build reproducibly.
-- CI must pass.
+
+- Packages must build reproducibly, this helps guarantee that a package was not tampered with and will also open up user repos 
+
 - Every package manifest is deterministic, and has a few comments unless its overly simple.
