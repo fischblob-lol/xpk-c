@@ -5,6 +5,7 @@ version = "0.12.4"
 desc = "Neovim is a project that seeks to aggressively refactor Vim"
 license = "Apache V2"
 deps = []
+strip = "1"
 
 [pkg]
 src-url = "https://github.com/neovim/neovim/archive/refs/tags/v0.12.4.tar.gz"
