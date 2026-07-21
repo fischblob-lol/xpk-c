@@ -36,3 +36,5 @@ Requirements for merge
 - Packages must build reproducibly, this helps guarantee that a package was not tampered with and will also open up user repos 
 
 - Every package manifest is deterministic, and has a few comments unless its overly simple.
+
+(although, currently only i will do maintance without further assistance)
