@@ -4,7 +4,7 @@ _xpk-c_
 The official core repository for xpk.
 
 Packages in this repository considered the highest trust packages in the ecosystem.
-Before a package may be added or updated, every active xpk maintainer must
+Before a package may be added or updated, every active xpk maintainer must:
 - review the change 
 - sign the commit using a verified cryptographic key
 
