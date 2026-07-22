@@ -38,15 +38,3 @@ Requirements for merge
 - Every package manifest is deterministic, and has a few comments unless its overly simple.
 
 (although, currently only sundowner will do maintance without further assistance)
-
-Star history
-============
-## Star History
-<a href="https://www.star-history.com/?repos=fischblob-lol%2Fxpk&type=date&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=fischblob-lol/xpk-c&type=date&theme=dark&legend=bottom-right&sealed_token=JByaEYclA6Eohd-SAgoM5MR2IE8P5tkyuFdSG_6kUQuL_ZzTYGBztUvJjrvYaNNhbAblF-h1Ql3Vsu6aiehxiz3crISQrI9G1DLOelPyiCVeJgCfkUOHVyWcw0oIeAogioWJT2j9jI4u_ZChZSSgX3f3IcTQaBjFPCHGZNg0uyszYp3GNaAK6oZVA3_0" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=fischblob-lol/xpk-c&type=date&legend=bottom-right&sealed_token=JByaEYclA6Eohd-SAgoM5MR2IE8P5tkyuFdSG_6kUQuL_ZzTYGBztUvJjrvYaNNhbAblF-h1Ql3Vsu6aiehxiz3crISQrI9G1DLOelPyiCVeJgCfkUOHVyWcw0oIeAogioWJT2j9jI4u_ZChZSSgX3f3IcTQaBjFPCHGZNg0uyszYp3GNaAK6oZVA3_0" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=fischblob-lol/xpk-c&type=date&legend=bottom-right&sealed_token=JByaEYclA6Eohd-SAgoM5MR2IE8P5tkyuFdSG_6kUQuL_ZzTYGBztUvJjrvYaNNhbAblF-h1Ql3Vsu6aiehxiz3crISQrI9G1DLOelPyiCVeJgCfkUOHVyWcw0oIeAogioWJT2j9jI4u_ZChZSSgX3f3IcTQaBjFPCHGZNg0uyszYp3GNaAK6oZVA3_0" />
- </picture>
-</a>
-
