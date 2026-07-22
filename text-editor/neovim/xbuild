@@ -17,6 +17,7 @@ strip = "1"
 [build]
 build-sys = "make"
 
+# sundowner js be making shit on the fly
 args = [
     "CMAKE_BUILD_TYPE=Release",
 ]
