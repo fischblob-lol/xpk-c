@@ -1,0 +1,13 @@
+[hash]
+head="putlater"
+last-edit="idkbro"
+
+[policy]
+required-signatures = 1
+allow-helpers = true
+
+[maintainers.aurelius] 
+fingerprint = "28ffbe73708a580e0db48025e4eed616dcbadc9e865f436fb00c08cd1bdb107"
+added = "21/7/2026 18:42 UTC"
+active = true
+revoked = false
